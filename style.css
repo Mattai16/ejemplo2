@@ -1,0 +1,29 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+* {
+    color: blue;
+}
+
+div {
+    color: red
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 1rem;
+}
+
+ul:hover {
+    background-color: blue;
+    color: white;
+}
+
+header:hover {
+    background-color: red;
+    color: black;
+}
